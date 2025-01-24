@@ -146,9 +146,10 @@ Vielen Dank an alle, die zur Entwicklung und zum Wachstum von VPN23.com beigetra
 
 Um mehr über unsere **Startup-Kalkulationen**, den **Businessplan**, das **Panama-Setup** und weitere **Details** zu erfahren, werfen Sie einen Blick auf diese Seiten (ähnlich wie Kapitel in einem Buch):
 
-1. [Startup Kalkulation](https://github.com/xheen908/VPN23_/blob/main/startup_kalkulation.md)  
-2. [Startup in Panama](https://github.com/xheen908/VPN23_/blob/main/startup_panama.md)  
-3. [Startup Businessplan](https://github.com/xheen908/VPN23_/blob/main/startup_buisnessplan.md)  
-4. [Startup Roadmap](https://github.com/xheen908/VPN23_/blob/main/startup_roadmap.md)  
-5. [Zusatz – Ergänzende Punkte](https://github.com/xheen908/VPN23_/blob/main/zusatz.md)
-6. [Gesellschafter Vertrag](https://github.com/xheen908/VPN23_PR_deDE/blob/main/gesellschafter_vertrag.md)
+1. [Presentation VPN23](https://github.com/xheen908/VPN23_PR_deDE/tree/main)
+2. [Startup Kalkulation](https://github.com/xheen908/VPN23_/blob/main/startup_kalkulation.md)  
+3. [Startup in Panama](https://github.com/xheen908/VPN23_/blob/main/startup_panama.md)  
+4. [Startup Businessplan](https://github.com/xheen908/VPN23_/blob/main/startup_buisnessplan.md)  
+5. [Startup Roadmap](https://github.com/xheen908/VPN23_/blob/main/startup_roadmap.md)  
+6. [Zusatz – Ergänzende Punkte](https://github.com/xheen908/VPN23_/blob/main/zusatz.md)
+7. [Gesellschafter Vertrag](https://github.com/xheen908/VPN23_PR_deDE/blob/main/gesellschafter_vertrag.md)
