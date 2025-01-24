@@ -146,7 +146,7 @@ Vielen Dank an alle, die zur Entwicklung und zum Wachstum von VPN23.com beigetra
 
 Um mehr über unsere **Startup-Kalkulationen**, den **Businessplan**, das **Panama-Setup** und weitere **Details** zu erfahren, werfen Sie einen Blick auf diese Seiten (ähnlich wie Kapitel in einem Buch):
 
-1. [Presentation VPN23](https://github.com/xheen908/VPN23_PR_deDE/tree/main)
+1. [Presentation VPN23](https://github.com/xheen908/VPN23_PR_deDE/)
 2. [Startup Kalkulation](https://github.com/xheen908/VPN23_/blob/main/startup_kalkulation.md)  
 3. [Startup in Panama](https://github.com/xheen908/VPN23_/blob/main/startup_panama.md)  
 4. [Startup Businessplan](https://github.com/xheen908/VPN23_/blob/main/startup_buisnessplan.md)  
