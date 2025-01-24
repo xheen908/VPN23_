@@ -186,3 +186,11 @@ ___**Ort, Datum**___
 | ____________________________        | ___________________________ | ___________________________ |
 | (Unterschrift)                      | (Unterschrift)              | (Unterschrift)              |
 
+
+1. [Startup Kalkulation](https://github.com/xheen908/VPN23_/blob/main/startup_kalkulation.md)  
+2. [Startup in Panama](https://github.com/xheen908/VPN23_/blob/main/startup_panama.md)  
+3. [Startup Businessplan](https://github.com/xheen908/VPN23_/blob/main/startup_buisnessplan.md)  
+4. [Startup Roadmap](https://github.com/xheen908/VPN23_/blob/main/startup_roadmap.md)  
+5. [Zusatz – Ergänzende Punkte](https://github.com/xheen908/VPN23_/blob/main/zusatz.md)
+6. [Gesellschafter Vertrag](https://github.com/xheen908/VPN23_PR_deDE/blob/main/gesellschafter_vertrag.md)
+
