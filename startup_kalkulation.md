@@ -144,3 +144,4 @@ Trotzdem zeigt das Beispiel, dass ein VPN-Projekt **durchaus realisierbar** ist,
 3. [Startup Businessplan](https://github.com/xheen908/VPN23_/blob/main/startup_buisnessplan.md)  
 4. [Startup Roadmap](https://github.com/xheen908/VPN23_/blob/main/startup_roadmap.md)  
 5. [Zusatz – Ergänzende Punkte](https://github.com/xheen908/VPN23_/blob/main/zusatz.md)
+6. [Gesellschafter Vertrag](https://github.com/xheen908/VPN23_PR_deDE/blob/main/gesellschafter_vertrag.md)
