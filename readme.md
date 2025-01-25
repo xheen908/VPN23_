@@ -125,7 +125,7 @@ Profitieren Sie von modernster Verschlüsselung, tokenbasierter Authentifizierun
               | Datenbank  |                | Stripe (Externer    |                  |
               | PostgreSQL |                | Zahlungsanbieter)   |                  |
               +------------+                +---------------------+                  | (API Calls)
-                                                                                     | -generiert Schlüssel/Token
+                                                                                     | -generiert Client/Netzwerk Schlüssel/Token
                       (2) API schickt Config / Credentials zurück                    |
                                     ^                                                |
                                     |                                                |
