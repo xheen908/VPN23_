@@ -105,7 +105,7 @@ Profitieren Sie von modernster Verschlüsselung, tokenbasierter Authentifizierun
 - **Zahlungsintegration:** Stripe  
 
          +--------------------------------------------------------+
-         |                     React App                          |
+         |               React Android iOS App                    |
          |    (Stellt Anfragen an die zentrale API, z. B.         |
          |     um Server-Config und Payment-Infos zu holen)       |
          +--------------------------+-----------------------------+
