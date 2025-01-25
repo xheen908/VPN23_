@@ -104,6 +104,44 @@ Profitieren Sie von modernster Verschlüsselung, tokenbasierter Authentifizierun
 - **Netzwerk:** Wireguard  
 - **Zahlungsintegration:** Stripe  
 
+         +--------------------------------------------------------+
+         |                     React App                          |
+         |    (Stellt Anfragen an die zentrale API, z. B.        |
+         |     um Server-Config und Payment-Infos zu holen)       |
+         +--------------------------+-----------------------------+
+                                    |
+                      (1) Anfrage: "Gib mir Server-Config"
+                                    |
+                                    v
+        +---------------------------------------------------------+
+        |             Zentrale API (Node.js / Express)            |
+        |  - Gibt verfügbare Server zurück, generiert ggf.        |
+        |    Schlüssel/Token                                      |
+        |  - Nutzt Stripe für Zahlungen                           |
+        +-----------+------------------------------+---------------+
+                    | (SQL Queries)               | (API Calls)  
+                    v                              v            
+              +------------+                +----------------------+
+              | Datenbank  |                | Stripe (Externer    |
+              | PostgreSQL |                | Zahlungsanbieter)    |
+              +------------+                +----------------------+
+
+                      (2) API schickt Config / Credentials zurück
+                                    ^
+                                    |
+                                    +-------------------------------------+
+                                                                          |
+       (3) Direkte Verbindung (WireGuard-Tunnel) zu gewähltem Server      |
+                                                                          v
+                           +------------------------------+
+                           |    Gewählter Server #1      |
+                           |  (WireGuard, VPN, etc.)     |
+                           +------------------------------+
+                           |    Gewählter Server #2      |
+                           +------------------------------+
+                               ... (weitere Server) ...
+
+
 ---
 
 ## Demo
