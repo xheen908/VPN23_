@@ -123,7 +123,7 @@ Profitieren Sie von modernster Verschlüsselung, tokenbasierter Authentifizierun
                     v                              v                                 |
               +------------+                +---------------------+                  |
               | Datenbank  |                | Stripe (Externer    |                  |
-              | PostgreSQL |                | Zahlungsanbieter)   |                  |
+              | Mysql      |                | Zahlungsanbieter)   |                  |
               +------------+                +---------------------+                  | (API Calls)
                                                                                      | -generiert Client/Netzwerk Schlüssel/Token
                       (2) API schickt Config / Credentials zurück                    |
